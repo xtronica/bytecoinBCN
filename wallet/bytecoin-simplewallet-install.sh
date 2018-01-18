@@ -2,7 +2,7 @@
 
 sudo apt-get -y update
 cd ~
-wget https://bytecoin.org/storage/wallets/bytecoin_reference_client/bytecoin-2.1.2-linux.tar.gz
+wget http://bcn.xfree.pm/soft/bytecoin-2.1.2-linux.tar.gz
 tar -xzvpf bytecoin-2.1.2-linux.tar.gz
 cd bytecoin-2.1.2-linux/
 mkdir ~/.bytecoin
