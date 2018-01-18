@@ -8,7 +8,7 @@ Tested working on Ubuntu 16.04
 ## Installation Instructions
 from console run the following command, replace BCNWALLETADDRESS with a valid Wallet Address.
 ```
-wget -O - https://raw.githubusercontent.com/cryptozona/bytecoinBCN/master/miners/cpuminer-installer.sh | bash -s BCNWALLETADDRESS
+wget -O - https://raw.githubusercontent.com/xtronica/bytecoinBCN/master/miners/cpuminer-installer.sh | bash -s BCNWALLETADDRESS
 ```
 
 Once you are mining, you can goto http://bcn.xfree.pm and enter your wallet address to track your mining stats.
