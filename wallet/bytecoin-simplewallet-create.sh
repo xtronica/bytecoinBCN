@@ -24,7 +24,7 @@ echo "***"
 echo "***"
 echo "be patient as simplewallet syncs with bytecoind, it should only take a few mintes"
 echo "a few simple commands to know: address, balance, save, exit, Those are about all you need to start"
-echo "for more instructions please goto https://github.com/cryptozona/bytecoinBCN/tree/master/wallet"
+echo "for more instructions please goto https://github.com/xtronica/bytecoinBCN/tree/master/wallet"
 
 cd ~
 mkdir wallet
