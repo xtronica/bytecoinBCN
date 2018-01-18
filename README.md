@@ -1,6 +1,9 @@
 # bytecoinBCN
 ## Scripts and tools for Bytecoin (BCN)
 
+Pool Bytecoin:
+http://bcn.xfree.pm
+
 More information and help on our forum:
 https://www.phoenix-digital.net
 
